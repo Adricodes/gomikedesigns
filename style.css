@@ -660,11 +660,14 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+   
 }
 
 .hero-bloc-text-sub {
     font-size: 36px;
+   
 }
+
 
 .statement-bloc-text {
     line-height: 26px;
@@ -707,6 +710,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    
 }
 
 h3 {
