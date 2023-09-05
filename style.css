@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: black;
 }
 
 .d-bloc button:hover {
@@ -361,6 +361,7 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+
 
 
 @media (min-width: 768px) {
@@ -661,7 +662,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
-   
+  
 }
 
 .hero-bloc-text-sub {
@@ -687,6 +688,7 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    background-color: ;
 }
 
 .h1 {
@@ -758,7 +760,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(35, 31, 32, 0.7);
+    background-color: lightyellow;
     padding: 40px 40px 40px 40px;
 }
 
@@ -786,7 +788,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: white;
 }
 
 .btn-atomic-tangerine {
@@ -987,6 +989,7 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+        background-color: lightcyan;
     }
     .bloc-xxl,
     .bloc-xl,
