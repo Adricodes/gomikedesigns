@@ -441,6 +441,11 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.text-center {
+    font-size: 18px;
 }
 
 .mg-lg {
@@ -839,10 +844,22 @@ h4 {
     background-image: url("img/atlanta%20made%20sign%20orange.jpg");
 }
 
+.developed {
+    font-size: 22px;
+}
+
+@media (min-width: 1025px) 
+{
+    .bloc {
+        background-color: lightcyan
+    };
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
         padding-right: 20px;
+        background-color: lightcyan;
     }
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
@@ -889,6 +906,7 @@ h4 {
     .bloc {
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
+        
     }
     .bloc-group,
     .bloc-group .bloc {
