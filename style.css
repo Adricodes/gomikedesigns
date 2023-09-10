@@ -93,11 +93,13 @@ a:hover {
 
 .texture-paper::before {
     background: url("img/texture-paper.png");
-    background-size: 280px 280px;background-color: antiquewhite;
+  
 }
+
 
 .b-parallax {
     background-attachment: fixed;
+    
 }
 
 .d-bloc {
@@ -766,7 +768,7 @@ h4 {
 }
 
 .black-background {
-    background-color: lightyellow;
+    background-color: rgba(35, 31, 32, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -1069,7 +1071,7 @@ h4 {
 }
 
 @media (max-width: 767px) {
-    .bloc-mob-center-text {
+    .bloc-mob- text {
         text-align: center;
     }
 }
