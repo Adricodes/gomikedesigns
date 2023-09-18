@@ -92,7 +92,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/atlanta-blue-sign-resized.jpg");
   
 }
 
@@ -661,7 +661,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+
 }
 
 .container {
@@ -738,7 +738,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white;
 }
 
 h4 {
@@ -756,11 +756,14 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+  
 }
 
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
+    justify-content: center;
+    max-width: 600px;
 }
 
 .avatar {
@@ -781,6 +784,7 @@ h4 {
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
+    color: rgba(0, 0, 0, .5);
 }
 
 .bgc-white {
@@ -839,11 +843,11 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta-blue-sign-resized.jpg");
+    background-image: url("img/atlanta-blue-sign-resized.jp2");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta-orange-resized.jpg");
+    background-image: url("img/orange-sign-resized.jp2");
 }
 
 .developed {
