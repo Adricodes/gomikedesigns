@@ -91,10 +91,10 @@ a:hover {
     
 }
 
-.texture-paper::before {
+/* .texture-paper::before {
     background: url("img/atlanta-blue-sign-resized.jpg");
   
-}
+} */
 
 
 .b-parallax {
@@ -813,6 +813,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.excited {
+    color: white;
+}
+
 .ltc-white {
     color: #FFFFFF!important;
 }
@@ -847,7 +851,7 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/cupcakes-resized1.jpg");
+    background-image: url("img/orange-sign-resized.jpg");
 }
 
 .developed {
@@ -857,7 +861,7 @@ h4 {
 @media (min-width: 1025px) 
 {
     .bloc {
-        background-color: lightcyan
+        background-color: #FFFFFF;
     };
 }
 
@@ -865,7 +869,7 @@ h4 {
     .bloc {
         padding-left: 20px;
         padding-right: 20px;
-        background-color: lightcyan;
+        background-color: #FFFFFF;
     }
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
@@ -1014,7 +1018,7 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
-        background-color: lightcyan;
+        background-color: #FFFFFF;
     }
     .bloc-xxl,
     .bloc-xl,
