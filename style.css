@@ -91,10 +91,10 @@ a:hover {
     
 }
 
-/* .texture-paper::before {
+.texture-paper::before {
     background: url("img/atlanta-blue-sign-resized.jpg");
   
-} */
+}
 
 
 .b-parallax {
@@ -199,6 +199,7 @@ a:hover {
 .d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, .5);
+    font-size: 12px;
 }
 
 .d-bloc .panel button:hover,
