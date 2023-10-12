@@ -680,6 +680,7 @@ a {
 #email,
 #name, #message {
     background-color: #EBEFF0;
+    border: 1px solid black;
 }
 
 .container {
