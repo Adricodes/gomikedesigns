@@ -673,7 +673,11 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #000000;
+    
+}
 
+#howdidyou, #email, #name {
+    background-color: #EBEFF0;
 }
 
 .container {
