@@ -673,10 +673,12 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #000000;
-    
+
 }
 
-#howdidyou, #email, #name {
+#howdidyou,
+#email,
+#name, #message {
     background-color: #EBEFF0;
 }
 
@@ -822,7 +824,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C84E13;
     color: #FFFFFF !important;
 }
 
@@ -844,7 +846,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C !important;
+    color: #C84E13 !important;
 }
 
 .ltc-atomic-tangerine:hover {
